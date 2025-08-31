@@ -1,4 +1,75 @@
-# 🚀 FESTUS MATSITSA BOMBO - Advanced Data Science Portfolio
+🚀 Festus Matsitsa Bombo | Full-Stack Data Scientist & AI Engineer
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
+
+🎯 About Me
+pythonclass DataScientist:
+    def __init__(self):
+        self.name = "Festus Matsitsa Bombo"
+        self.role = "Data Scientist & AI Engineer"
+        self.location = "Kenya 🇰🇪"
+        self.education = "BSc Computer Science (In Progress)"
+        self.languages = ["Python", "R", "SQL", "JavaScript", "Java", "C++"]
+        self.passion = "Transforming data into actionable insights"
+        
+    def get_skills(self):
+        return {
+            "machine_learning": ["Scikit-learn", "TensorFlow", "PyTorch", "XGBoost"],
+            "data_analysis": ["Pandas", "NumPy", "SciPy", "Statsmodels"],
+            "visualization": ["Matplotlib", "Seaborn", "Plotly", "Tableau", "Power BI"],
+            "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+            "cloud": ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
+            "web_dev": ["Flask", "Django", "FastAPI", "React", "Node.js"]
+        }
+    
+    def current_focus(self):
+        return ["Deep Learning", "MLOps", "Computer Vision", "NLP", "Big Data Analytics"]
+
+me = DataScientist()
+print(f"Hello! I'm {me.name}, passionate about {me.passion}")
+
+🛠️ Technology Stack
+<div align="center">
+💻 Programming Languages
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🧠 Machine Learning & AI
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+📊 Data Analysis & Visualization
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🗄️ Databases & Cloud
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🔧 Development Tools
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
 <div align="center">
 
