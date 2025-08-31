@@ -1,4 +1,5 @@
 <!-- Profile Banner -->
+<!-- Profile Banner -->
 <div align="center">
   <img src="https://i.imgur.com/AZ2iWek.gif" alt="Banner" width="100%" />
 </div>
@@ -10,8 +11,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Software+Engineer;Data+Scientist;Machine+Learning+Engineer;AI+Researcher;Computer+Scientist;Turning+Data+into+Impactful+Solutions)
 
 </div>  
-
----
 
 ## 🌟 About Me  
 
