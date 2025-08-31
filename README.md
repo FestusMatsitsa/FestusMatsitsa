@@ -9,7 +9,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Software+Engineer;Data+Scientist;Machine+Learning+Engineer;AI+Researcher;Computer+Scientist;Turning+Data+into+Impactful+Solutions)
 
-</div>
+</div>  
 
 ---
 
@@ -18,8 +18,10 @@
 💡 I am a **Software Engineer, AI & ML Enthusiast, and Data Scientist** with a strong background in **data analysis, predictive modeling, and intelligent systems development**.  
 🎓 Currently pursuing **BSc Computer Science @ Pwani University (2023–2027)**.  
 📊 Skilled at transforming **complex datasets into actionable insights** that drive decisions.  
-⚡ Exploring the intersection of **AI, software, and data** to build **scalable tech solutions**.  
-🌍 Open to collaborations worldwide (Fiverr | Upwork).  
+🌍 Working globally via **Fiverr | Upwork**.  
+⚡ Exploring the intersection of **AI, software, and data** to build **scalable solutions**.  
+
+📌 **Portfolio Website:** [🔗 Visit My Portfolio](https://your-portfolio-link.com)  
 
 ---
 
@@ -32,7 +34,7 @@
 
 ### 🤖 Data Science & AI  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,numpy,pandas,sklearn&theme=light" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas,sklearn&theme=light" />
 </p>
 
 ### 📊 Visualization & BI Tools  
@@ -100,6 +102,18 @@
 
 ---
 
+## 📚 Pinned Publications & Research  
+
+> 📌 This section will grow as I publish **AI/ML research papers, technical blogs, and open-source contributions**.  
+
+- 📝 [Exploring Machine Learning in Business Forecasting](https://your-portfolio-link.com/blog/ml-forecasting)  
+- 📝 [Deep Learning Applications in Healthcare](https://your-portfolio-link.com/blog/deep-healthcare)  
+- 📝 [Data Visualization for Decision Making](https://your-portfolio-link.com/blog/data-viz)  
+
+*(Future work: Academic publications will be linked here with DOI / conference links)*  
+
+---
+
 ## 🏅 GitHub Trophies  
 
 <div align="center">
@@ -114,6 +128,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)  
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)  
@@ -138,7 +153,7 @@
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
-</div>
+</div>  
 
 ---
 
