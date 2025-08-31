@@ -1,39 +1,58 @@
-# 🚀 Advanced Multi-Domain Technical Portfolio
+# 🚀 FESTUS MATSITSA BOMBO - Advanced Data Science Portfolio
 
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://tableau.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=green)](https://github.com/yourusername)
-[![Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow)](https://github.com/yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=festusbombo&color=blue&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/festusbombo?style=for-the-badge&color=green)](https://github.com/festusbombo)
 
 </div>
+
+> **Passionate Data Scientist** specializing in transforming complex datasets into actionable insights that drive business success. Currently pursuing BSc Computer Science at Pwani University while delivering high-impact analytical solutions to global clients.
 
 ## 📊 Performance Metrics Dashboard
 
 ```mermaid
-graph TD
-    A[Data Engineering] --> B[Feature Engineering]
-    B --> C[Model Development]
-    C --> D[Hyperparameter Tuning]
-    D --> E[Model Evaluation]
-    E --> F[Production Deployment]
-    F --> G[Monitoring & Maintenance]
-    G --> H[Performance Optimization]
-    H --> A
+graph TB
+    subgraph "🔄 ML Lifecycle"
+        A[Data Ingestion] --> B[Feature Engineering]
+        B --> C[Model Development]
+        C --> D[Hyperparameter Tuning]
+        D --> E[Model Evaluation]
+        E --> F[Production Deployment]
+        F --> G[Monitoring & Maintenance]
+        G --> H[Performance Optimization]
+        H --> A
+    end
     
-    I[Research] --> J[Experimentation]
-    J --> K[Paper Implementation]
-    K --> L[Open Source Contribution]
+    subgraph "🔬 Research Pipeline"
+        I[Literature Review] --> J[Experimentation]
+        J --> K[Paper Implementation]
+        K --> L[Open Source Contribution]
+        L --> I
+    end
     
-    M[Cloud Infrastructure] --> N[MLOps Pipeline]
-    N --> O[CI/CD Integration]
-    O --> P[Scalable Solutions]
+    subgraph "☁️ Infrastructure"
+        M[Cloud Infrastructure] --> N[MLOps Pipeline]
+        N --> O[CI/CD Integration]
+        O --> P[Scalable Solutions]
+        P --> M
+    end
+    
+    C -.-> J
+    F -.-> N
+    L -.-> C
+    
+    style A fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style C fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+    style F fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px
+    style J fill:#fff3e0,stroke:#e65100,stroke-width:2px
 ```
 
 ## 🎯 Core Competencies Matrix
@@ -90,35 +109,61 @@ graph TD
 ## 🏗️ System Architecture Overview
 
 ```mermaid
-architecture-beta
-    group api(cloud)[API Layer]
-    group ml(cloud)[ML Services]
-    group data(cloud)[Data Layer]
-    group infra(cloud)[Infrastructure]
-
-    service web(internet)[Web Interface] in api
-    service gateway(server)[API Gateway] in api
-    service auth(server)[Auth Service] in api
+graph TB
+    subgraph "🌐 Frontend Layer"
+        A[Web Dashboard]
+        B[Mobile App]
+        C[API Console]
+    end
     
-    service training(server)[Model Training] in ml
-    service inference(server)[Inference Engine] in ml
-    service pipeline(server)[ML Pipeline] in ml
+    subgraph "🔒 Security & Gateway"
+        D[Load Balancer]
+        E[API Gateway]
+        F[Auth Service]
+    end
     
-    service postgres(database)[PostgreSQL] in data
-    service redis(database)[Redis Cache] in data
-    service s3(database)[Object Storage] in data
+    subgraph "🤖 ML Services"
+        G[Training Engine]
+        H[Inference API]
+        I[Model Registry]
+        J[Feature Store]
+    end
     
-    service k8s(server)[Kubernetes] in infra
-    service monitor(server)[Monitoring] in infra
-    service ci(server)[CI/CD] in infra
-
-    web:R --> L:gateway
-    gateway:R --> L:auth
-    gateway:B --> T:training
-    gateway:B --> T:inference
-    training:B --> T:postgres
-    inference:R --> L:redis
-    pipeline:B --> T:s3
+    subgraph "💾 Data Layer"
+        K[(PostgreSQL)]
+        L[(Redis Cache)]
+        M[(Object Storage)]
+        N[(Vector DB)]
+    end
+    
+    subgraph "☁️ Infrastructure"
+        O[Kubernetes Cluster]
+        P[Monitoring Stack]
+        Q[CI/CD Pipeline]
+    end
+    
+    A --> D
+    B --> D
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    F --> H
+    G --> I
+    H --> J
+    G --> K
+    H --> L
+    I --> M
+    J --> N
+    O --> G
+    O --> H
+    P --> O
+    Q --> O
+    
+    style A fill:#e1f5fe
+    style G fill:#f3e5f5
+    style K fill:#fff3e0
+    style O fill:#e8f5e8
 ```
 
 ## 🚀 Featured Projects
@@ -337,22 +382,70 @@ flowchart LR
 ```
 
 ### Data Flow Architecture
-```
-┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   Raw Data      │───▶│  ETL Pipeline    │───▶│  Feature Store  │
-│                 │    │                  │    │                 │
-│ • Streaming     │    │ • Validation     │    │ • Online        │
-│ • Batch         │    │ • Transformation │    │ • Offline       │
-│ • Real-time     │    │ • Enrichment     │    │ • Historical    │
-└─────────────────┘    └──────────────────┘    └─────────────────┘
-                                ▼
-┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│  Model Serving  │◀───│  Model Registry  │◀───│ Training Engine │
-│                 │    │                  │    │                 │
-│ • REST API      │    │ • Versioning     │    │ • AutoML        │
-│ • gRPC          │    │ • A/B Testing    │    │ • Distributed   │
-│ • GraphQL       │    │ • Rollback       │    │ • GPU Clusters  │
-└─────────────────┘    └──────────────────┘    └─────────────────┘
+```mermaid
+flowchart LR
+    subgraph "📥 Data Sources"
+        A1[Streaming Data]
+        A2[Batch Files]
+        A3[APIs]
+        A4[Databases]
+    end
+    
+    subgraph "⚙️ Processing Pipeline"
+        B1[Data Validation]
+        B2[Transformation]
+        B3[Feature Engineering]
+        B4[Quality Checks]
+    end
+    
+    subgraph "🏪 Storage Layer"
+        C1[Feature Store]
+        C2[Data Lake]
+        C3[Model Registry]
+        C4[Metadata Store]
+    end
+    
+    subgraph "🧠 ML Engine"
+        D1[Training Service]
+        D2[Hyperparameter Tuning]
+        D3[Model Validation]
+        D4[A/B Testing]
+    end
+    
+    subgraph "🚀 Serving Layer"
+        E1[Real-time API]
+        E2[Batch Prediction]
+        E3[Model Monitoring]
+        E4[Feedback Loop]
+    end
+    
+    A1 --> B1
+    A2 --> B1
+    A3 --> B2
+    A4 --> B2
+    B1 --> B3
+    B2 --> B3
+    B3 --> B4
+    B4 --> C1
+    B4 --> C2
+    C1 --> D1
+    C2 --> D1
+    D1 --> D2
+    D2 --> D3
+    D3 --> C3
+    C3 --> D4
+    D4 --> E1
+    D4 --> E2
+    E1 --> E3
+    E2 --> E3
+    E3 --> E4
+    E4 --> B1
+    
+    style A1 fill:#e3f2fd
+    style B1 fill:#f3e5f5
+    style C1 fill:#fff3e0
+    style D1 fill:#e8f5e8
+    style E1 fill:#fce4ec
 ```
 
 ## 🔧 Advanced Development Setup
