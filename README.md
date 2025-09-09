@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI+Engineer;Machine+Learning+Specialist;Software+Engineering+Expert;Python+%7C+R+%7C+TensorFlow)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/festus-bombo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://festus-bombo.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:festus.bombo@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://FestusMatsitsa.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmatsitsa@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/festus_bombo)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=festus-bombo&color=4ECDC4&style=for-the-badge)
@@ -132,12 +132,12 @@ print("🚀 Ready to transform your data into insights!")
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=festus-bombo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=festus-bombo&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FestusMatsitsa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FestusMatsitsa&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=festus-bombo&theme=radical&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=FestusMatsitsa&theme=radical&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ## 🚀 Featured Projects
