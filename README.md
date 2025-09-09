@@ -287,6 +287,6 @@ print("🚀 Transforming data into business value, one project at a time!")
 **⭐ Star my repositories if you find them useful!**  
 **🔔 Follow me for more data science and AI content!**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=festus-bombo.festus-bombo&left_color=4ECDC4&right_color=45B7D1)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FestusMatsitsa.FestusMatsitsa&left_color=4ECDC4&right_color=45B7D1)
 
 </div>
