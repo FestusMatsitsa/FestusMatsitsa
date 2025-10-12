@@ -25,6 +25,8 @@ class DataScientist:
         self.education = "BSc Computer Science @ Pwani University"
         self.experience = "3+ years in Data Science & AI"
         self.location = "Kenya 🇰🇪"
+        self.username = "FestusMatsitsa"
+        self.email = "fmatsitsa@gmail.com"
         
     def specializations(self):
         return {
@@ -133,7 +135,7 @@ print("🚀 Ready to transform your data into insights!")
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FestusMatsitsa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FestusMatsitsa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FestusMatsitsa&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
@@ -141,14 +143,14 @@ print("🚀 Ready to transform your data into insights!")
 <img src="https://streak-stats.demolab.com?user=FestusMatsitsa&theme=radical&border_radius=10" alt="GitHub Streak"/>
 </div>
 
-### 📊 Accurate GitHub Stats
+### 📊 GitHub Stats Overview
 - **🌟 Total Stars**: 4
 - **📝 Total Commits**: 52
 - **🔀 Total PRs**: 0
 - **🐛 Total Issues**: 0
 - **📅 Current Streak**: October 12th
-- **🔥 Longest Streak**: September 19th - 21st (3 days)
-- **📈 Contribution Period**: August 29th - Present
+- **🔥 Longest Streak**: September 19th - 21st
+- **📈 Active Since**: August 29th
 
 ### 💻 Language Distribution
 - **Python**: 56.02%
@@ -158,10 +160,10 @@ print("🚀 Ready to transform your data into insights!")
 - **Shell**: 0.21%
 
 ### 🏆 Active Repositories
-- **HEALTHMINDai** (Python) - AI-powered health monitoring system
-- **My-portfolio** (Python) - Professional portfolio website
-- **digitalscienceportfolio** (TypeScript) - Digital science portfolio platform
-- **kliffi-farms-connect** - Agricultural farm connectivity solution
+- **[HEALTHMINDai](https://github.com/FestusMatsitsa/HEALTHMINDai)** (Python) - AI-powered health monitoring system
+- **[My-portfolio](https://github.com/FestusMatsitsa/My-portfolio)** (Python) - Professional portfolio website
+- **[digitalscienceportfolio](https://github.com/FestusMatsitsa/digitalscienceportfolio)** (TypeScript) - Digital science portfolio platform
+- **[kliffi-farms-connect](https://github.com/FestusMatsitsa/kliffi-farms-connect)** - Agricultural farm connectivity solution
 
 ## 🚀 Featured Projects
 
@@ -175,8 +177,8 @@ print("🚀 Ready to transform your data into insights!")
 | **📊 Digital Science Portfolio** | Interactive digital portfolio for data science projects | TypeScript, React, Node.js | ✅ Live |
 | **🌐 My Portfolio** | Professional data science portfolio website | Python, Streamlit, Plotly | ✅ Live |
 | **🚜 Kliffi Farms Connect** | Farm management and connectivity solution | Python, FastAPI, PostgreSQL | ✅ Active |
-| **🧠 Predictive Analytics Engine** | ML pipeline for business forecasting | Python, Scikit-learn, Docker | 🔄 Developing |
-| **📈 Real-time Dashboard** | Interactive BI dashboard for data insights | Plotly, Streamlit, PostgreSQL | 🔄 Developing |
+| **🧠 AI Analytics Platform** | Comprehensive data analysis and ML platform | Python, Scikit-learn, Docker | 🔄 Developing |
+| **📈 Business Intelligence Suite** | Advanced analytics and visualization tools | Plotly, Streamlit, PostgreSQL | 🔄 Developing |
 
 </div>
 
@@ -281,6 +283,7 @@ R                  15 mins      ░░░░░░░░░░░░░░░░
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge)](https://linkedin.com/in/festus-matsitsa-26b778383)
 [![Fiverr](https://img.shields.io/badge/💼%20Fiverr-Hire%20Me%20Now-1DBF73?style=for-the-badge)](https://fiverr.com/festus_bombo)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-View%20My%20Work-000000?style=for-the-badge)](https://festusmatsitsaportfolio.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-View%20My%20Code-181717?style=for-the-badge)](https://github.com/FestusMatsitsa)
 
 **💡 Ready to turn your data into actionable insights? Let's connect!**
 
@@ -292,7 +295,7 @@ R                  15 mins      ░░░░░░░░░░░░░░░░
 
 ```python
 achievements = {
-    "🎯": "Active GitHub contributor since August 2023",
+    "🎯": "Active GitHub contributor with growing portfolio",
     "🚀": "Building innovative AI health solutions with HEALTHMINDai", 
     "📊": "Creating interactive data science portfolios",
     "🧠": "Specialized in Python and TypeScript development",
@@ -316,8 +319,8 @@ print("🚀 Passionate about building intelligent solutions that make a differen
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FestusMatsitsa.FestusMatsitsa&left_color=4ECDC4&right_color=45B7D1)
 
+**Connect with me:** [GitHub](https://github.com/FestusMatsitsa) • [Email](mailto:fmatsitsa@gmail.com) • [LinkedIn](https://linkedin.com/in/festus-matsitsa-26b778383)
+
 </div>
 
 ---
-
-*Note: GitHub stats are dynamically fetched and may show slight variations. The numbers above reflect the most accurate data from your GitHub analytics.*
