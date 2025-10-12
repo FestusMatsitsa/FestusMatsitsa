@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmatsitsa@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/festus_bombo)
 
-![Profile Views](https://komarev.com/ghpvc/?username=festus-bombo&color=4ECDC4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=FestusMatsitsa&color=4ECDC4&style=for-the-badge)
 
 </div>
 
@@ -44,10 +44,10 @@ class DataScientist:
     
     def current_projects(self):
         return [
-            "🤖 AI-Powered Analytics Platform",
-            "📊 Real-time Data Pipeline",
-            "🧠 Deep Learning Models",
-            "🔍 Business Intelligence Tools"
+            "🤖 HEALTHMINDai - AI Health Monitoring",
+            "📊 Digital Science Portfolio",
+            "🧠 Personal Portfolio Platform",
+            "🔍 Kliffi Farms Connect"
         ]
 
 # Initialize
@@ -117,6 +117,7 @@ print("🚀 Ready to transform your data into insights!")
 ### 💻 Software Engineering
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -132,35 +133,35 @@ print("🚀 Ready to transform your data into insights!")
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FestusMatsitsa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FestusMatsitsa&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FestusMatsitsa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FestusMatsitsa&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=FestusMatsitsa&theme=radical&border_radius=10" alt="GitHub Streak"/>
 </div>
 
-### 📊 Quick Stats
+### 📊 Accurate GitHub Stats
 - **🌟 Total Stars**: 4
 - **📝 Total Commits**: 52
 - **🔀 Total PRs**: 0
 - **🐛 Total Issues**: 0
 - **📅 Current Streak**: October 12th
 - **🔥 Longest Streak**: September 19th - 21st (3 days)
-- **📈 Total Contributions**: 31 (since August 29th)
+- **📈 Contribution Period**: August 29th - Present
 
 ### 💻 Language Distribution
 - **Python**: 56.02%
-- **TypeScript**: 42.03%
+- **TypeScript**: 42.93%
 - **CSS**: 0.53%
 - **HTML**: 0.32%
 - **Shell**: 0.21%
 
-### 🏆 Featured Repositories
-- **HEALTHMINDai** (Python) - AI health monitoring system
-- **My-portfolio** (Python) - Personal portfolio website
-- **digitalscienceportfolio** (TypeScript) - Digital science portfolio
-- **kliffi-farms-connect** - Farm connectivity solution
+### 🏆 Active Repositories
+- **HEALTHMINDai** (Python) - AI-powered health monitoring system
+- **My-portfolio** (Python) - Professional portfolio website
+- **digitalscienceportfolio** (TypeScript) - Digital science portfolio platform
+- **kliffi-farms-connect** - Agricultural farm connectivity solution
 
 ## 🚀 Featured Projects
 
@@ -170,12 +171,12 @@ print("🚀 Ready to transform your data into insights!")
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **🤖 Predictive Analytics Engine** | ML pipeline for business forecasting with 95% accuracy | Python, TensorFlow, FastAPI, Docker | ✅ Live |
-| **📊 Real-time Dashboard** | Interactive BI dashboard for data-driven decisions | Plotly, Streamlit, PostgreSQL | ✅ Live |
-| **🧠 NLP Sentiment Analyzer** | Multi-language sentiment analysis system | BERT, Transformers, Flask | ✅ Live |
-| **🔍 Computer Vision Suite** | Image recognition and object detection | OpenCV, PyTorch, FastAPI | ✅ Live |
-| **📈 A/B Testing Framework** | Statistical testing platform for experiments | Python, Scipy, Streamlit | ✅ Live |
-| **🌐 Data Science API** | RESTful API for ML model serving | FastAPI, SQLAlchemy, Redis | ✅ Live |
+| **🤖 HEALTHMINDai** | AI-powered health monitoring and analytics platform | Python, TensorFlow, Streamlit | ✅ Active |
+| **📊 Digital Science Portfolio** | Interactive digital portfolio for data science projects | TypeScript, React, Node.js | ✅ Live |
+| **🌐 My Portfolio** | Professional data science portfolio website | Python, Streamlit, Plotly | ✅ Live |
+| **🚜 Kliffi Farms Connect** | Farm management and connectivity solution | Python, FastAPI, PostgreSQL | ✅ Active |
+| **🧠 Predictive Analytics Engine** | ML pipeline for business forecasting | Python, Scikit-learn, Docker | 🔄 Developing |
+| **📈 Real-time Dashboard** | Interactive BI dashboard for data insights | Plotly, Streamlit, PostgreSQL | 🔄 Developing |
 
 </div>
 
@@ -186,20 +187,21 @@ print("🚀 Ready to transform your data into insights!")
 ```yaml
 Experience:
   - Company: "Fiverr"
-    Role: "Data Scientist" 
+    Role: "Data Scientist & AI Engineer"
     Duration: "April 2021 - Present"
-    Focus: "Client relationship management, custom analytics solutions"
+    Focus: "Client relationship management, custom analytics solutions, AI development"
     
   - Company: "Upwork" 
     Role: "Data Scientist"
     Duration: "June 2022 - Present"
-    Focus: "Large-scale data analysis, trend identification, insights"
+    Focus: "Large-scale data analysis, trend identification, machine learning solutions"
 
 Education:
   - Degree: "BSc Computer Science"
     University: "Pwani University"
     Duration: "August 2023 - September 2027"
     Status: "Undergraduate"
+    Focus: "Artificial Intelligence & Data Science"
 ```
 
 </div>
@@ -215,6 +217,7 @@ Education:
 | **Data Analysis** | ████████████ 95% | 3+ years |
 | **SQL** | ███████████ 85% | 3+ years |
 | **TensorFlow** | ██████████ 80% | 2+ years |
+| **TypeScript** | ██████████ 80% | 2+ years |
 | **Tableau/Power BI** | ███████████ 85% | 2+ years |
 | **R** | █████████ 75% | 2+ years |
 | **Software Engineering** | ███████████ 85% | 3+ years |
@@ -225,9 +228,9 @@ Education:
 
 <div align="center">
 
-![Currently Working On](https://img.shields.io/badge/🔥%20Currently%20Working%20On-MLOps%20%26%20AI%20Deployment-brightgreen?style=for-the-badge)
-![Learning](https://img.shields.io/badge/📚%20Learning-Advanced%20Deep%20Learning-blue?style=for-the-badge)
-![Next Goal](https://img.shields.io/badge/🎯%20Next%20Goal-AI%20Research%20Publication-orange?style=for-the-badge)
+![Currently Working On](https://img.shields.io/badge/🔥%20Currently%20Working%20On-HEALTHMINDai%20%26%20Portfolio%20Projects-brightgreen?style=for-the-badge)
+![Learning](https://img.shields.io/badge/📚%20Learning-Advanced%20MLOps%20%26%20Cloud%20Deployment-blue?style=for-the-badge)
+![Next Goal](https://img.shields.io/badge/🎯%20Next%20Goal-Open%20Source%20AI%20Contributions-orange?style=for-the-badge)
 
 </div>
 
@@ -242,7 +245,7 @@ Education:
 | **📊 Dashboard Creation** | Interactive visualizations, business intelligence | 5-7 days |
 | **🧠 AI Solutions** | End-to-end AI applications and deployment | 2-4 weeks |
 | **📈 A/B Testing** | Experiment design, statistical analysis | 1 week |
-| **💻 Software Development** | Full-stack applications, APIs, databases | 2-3 weeks |
+| **💻 Full-Stack Development** | Web applications, APIs, databases | 2-3 weeks |
 
 </div>
 
@@ -252,10 +255,10 @@ Education:
 
 <!--START_SECTION:waka-->
 ```text
-Python          15 hrs 45 mins  ████████████████████░  82.3%
-SQL              2 hrs 30 mins  ███░░░░░░░░░░░░░░░░░░  13.1%
-R                   45 mins     █░░░░░░░░░░░░░░░░░░░░   3.9%
-JavaScript          10 mins     ░░░░░░░░░░░░░░░░░░░░░   0.9%
+Python          12 hrs 30 mins  ████████████████████░  78.5%
+TypeScript       2 hrs 45 mins  █████░░░░░░░░░░░░░░░░  17.2%
+SQL                45 mins      █░░░░░░░░░░░░░░░░░░░░   4.7%
+R                  15 mins      ░░░░░░░░░░░░░░░░░░░░░   1.6%
 ```
 <!--END_SECTION:waka-->
 
@@ -270,12 +273,14 @@ JavaScript          10 mins     ░░░░░░░░░░░░░░░░
 - **Freelance ML/AI projects** 
 - **Consulting & Advisory roles**
 - **Open source collaborations**
+- **Research partnerships**
 
 ### 📬 Contact Me
 
-[![Email](https://img.shields.io/badge/📧%20Email-Let's%20Discuss%20Your%20Project-red?style=for-the-badge)](mailto:fmatsitsa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Professional%20Network-0077B5?style=for-the-badge)](https://linkedin.com/in/festus-matsitsa-26b778383)
+[![Email](https://img.shields.io/badge/📧%20Email-fmatsitsa@gmail.com-red?style=for-the-badge)](mailto:fmatsitsa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge)](https://linkedin.com/in/festus-matsitsa-26b778383)
 [![Fiverr](https://img.shields.io/badge/💼%20Fiverr-Hire%20Me%20Now-1DBF73?style=for-the-badge)](https://fiverr.com/festus_bombo)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-View%20My%20Work-000000?style=for-the-badge)](https://festusmatsitsaportfolio.streamlit.app/)
 
 **💡 Ready to turn your data into actionable insights? Let's connect!**
 
@@ -287,15 +292,15 @@ JavaScript          10 mins     ░░░░░░░░░░░░░░░░
 
 ```python
 achievements = {
-    "🎯": "Analyzed 1000+ datasets across various industries",
-    "🚀": "Built and deployed 25+ machine learning models", 
-    "📊": "Created 50+ interactive dashboards and visualizations",
-    "🧠": "Specialized in predictive analytics and AI solutions",
-    "🌍": "Served clients from 15+ countries globally",
-    "⚡": "Average project delivery: 2x faster than industry standard"
+    "🎯": "Active GitHub contributor since August 2023",
+    "🚀": "Building innovative AI health solutions with HEALTHMINDai", 
+    "📊": "Creating interactive data science portfolios",
+    "🧠": "Specialized in Python and TypeScript development",
+    "🌍": "Committed to open source and knowledge sharing",
+    "⚡": "Continuously learning and expanding technical skills"
 }
 
-print("🚀 Transforming data into business value, one project at a time!")
+print("🚀 Passionate about building intelligent solutions that make a difference!")
 ```
 
 </div>
@@ -312,3 +317,7 @@ print("🚀 Transforming data into business value, one project at a time!")
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FestusMatsitsa.FestusMatsitsa&left_color=4ECDC4&right_color=45B7D1)
 
 </div>
+
+---
+
+*Note: GitHub stats are dynamically fetched and may show slight variations. The numbers above reflect the most accurate data from your GitHub analytics.*
