@@ -140,6 +140,28 @@ print("🚀 Ready to transform your data into insights!")
 <img src="https://streak-stats.demolab.com?user=FestusMatsitsa&theme=radical&border_radius=10" alt="GitHub Streak"/>
 </div>
 
+### 📊 Quick Stats
+- **🌟 Total Stars**: 4
+- **📝 Total Commits**: 52
+- **🔀 Total PRs**: 0
+- **🐛 Total Issues**: 0
+- **📅 Current Streak**: October 12th
+- **🔥 Longest Streak**: September 19th - 21st (3 days)
+- **📈 Total Contributions**: 31 (since August 29th)
+
+### 💻 Language Distribution
+- **Python**: 56.02%
+- **TypeScript**: 42.03%
+- **CSS**: 0.53%
+- **HTML**: 0.32%
+- **Shell**: 0.21%
+
+### 🏆 Featured Repositories
+- **HEALTHMINDai** (Python) - AI health monitoring system
+- **My-portfolio** (Python) - Personal portfolio website
+- **digitalscienceportfolio** (TypeScript) - Digital science portfolio
+- **kliffi-farms-connect** - Farm connectivity solution
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -251,8 +273,8 @@ JavaScript          10 mins     ░░░░░░░░░░░░░░░░
 
 ### 📬 Contact Me
 
-[![Email](https://img.shields.io/badge/📧%20Email-Let's%20Discuss%20Your%20Project-red?style=for-the-badge)](mailto:festus.bombo@email.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Professional%20Network-0077B5?style=for-the-badge)](https://linkedin.com/in/festus-bombo)
+[![Email](https://img.shields.io/badge/📧%20Email-Let's%20Discuss%20Your%20Project-red?style=for-the-badge)](mailto:fmatsitsa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Professional%20Network-0077B5?style=for-the-badge)](https://linkedin.com/in/festus-matsitsa-26b778383)
 [![Fiverr](https://img.shields.io/badge/💼%20Fiverr-Hire%20Me%20Now-1DBF73?style=for-the-badge)](https://fiverr.com/festus_bombo)
 
 **💡 Ready to turn your data into actionable insights? Let's connect!**
