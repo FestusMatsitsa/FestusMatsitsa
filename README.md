@@ -171,16 +171,20 @@ pie title Language Distribution
 <div align="center">
 
 <!-- 📊 GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FestusMatsitsa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&cache_seconds=1800"/>
+<img height="180em" 
+     src="https://github-readme-stats.vercel.app/api?username=FestusMatsitsa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&cache_seconds=86400"/>
 
 <!-- 🧩 Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FestusMatsitsa&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&cache_seconds=1800"/>
+<img height="180em" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FestusMatsitsa&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&cache_seconds=86400"/>
 
 <!-- 🔥 Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=FestusMatsitsa&theme=radical&border_radius=10&background=0D1117&border=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180"/>
+<img src="https://streak-stats.demolab.com?user=FestusMatsitsa&theme=radical&border_radius=10&background=0D1117&border=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4&date_format=j%20M%5B%20Y%5D" 
+     alt="GitHub Streak" height="180"/>
 
-<!-- ⚡ Activity Graph (optional) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FestusMatsitsa&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+<!-- ⚡ Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FestusMatsitsa&theme=react-dark&hide_border=true&area=true&custom_title=Festus%20Matsitsa's%20Contribution%20Graph" 
+     alt="GitHub Activity Graph"/>
 
 </div>
 
