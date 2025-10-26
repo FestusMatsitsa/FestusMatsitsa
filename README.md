@@ -2,6 +2,7 @@
 
 <div align="center">
 
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=280&section=header&text=Data%20Scientist%20%7C%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Transforming%20Data%20into%20Intelligent%20Solutions&descAlignY=55&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI+Engineer;Machine+Learning+Specialist;Software+Engineering+Expert;Python+%7C+R+%7C+TensorFlow)](https://git.io/typing-svg)
